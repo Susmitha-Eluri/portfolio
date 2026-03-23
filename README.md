@@ -1,8 +1,5 @@
-# portfolio
 
-# Portfolio Website (README)
-🚀 Overview
-
+# Portfolio Website 
 # What it is:
 A personal portfolio website to showcase my projects, technical skills, and achievements in a clean and professional format.
 
